@@ -1,0 +1,105 @@
+No.,Comments
+1,"lack of consensus I'm fine with closing this, I was planning on doing so anyway in the next few days due to lack of consensus / enthusiasm."
+2,"It¡¯s not clear how I can address ""we unfortunately didn't reach a firm conclusion"", but oh well. "
+3,"sure, Sorry i have not been able to work on xxx issues much lately"
+4,go back to this PR right once I clear the higher priority parts of my backlog
+5,"std doesn¡¯t support this at all currently, and I don¡¯t think there¡¯s a good reason to add it without adding more general support for a number of character encodings."
+6,"So, we have Deref coercions and non-Deref coercions. Transitiivty is valid within each group, but not among them. Correct?"
+7,"sorry, I was out because of family reasons, slowly coming back to be active... I think I will be back working again on my pending issues this week"
+8,"I have no problems with that -- I just wanted the example and doc to be more concise than it already is, as it really confused me when I first read it. Additionally, I prefer using three dots than to capitalize."
+9,"i made a quik pr in passing thinking it would be uncontroversial, i'M not all that interested in spending a log of time bikesheding it."
+10,"ah  damn, didn't see the first comment¡£i'll but don't know when"
+11,"It's been addressed twice by me, but never reviewed/merged/etc. I'm leaving to go on a  xxx on xxx. I'll try to update and rebase it by then, otherwise I won't be back from my hike until December."
+12,the issue xxx has raised has not been fixed. we get errors before we even ÿ
+13,"ah sorry guys, busy summer. i'll tryÿ"
+14,So apart from removing the warning: what should be changed about the error message (if it should be changed)?
+15,"xx this required some  work to get into 1.3, namely figuring out an acceptable numeric version scheme to add as a label to nodes."
+16,higer priorities
+17,"I also have no idea what the problem is, I think (though I'm not an expert) that the current set of optimizations doesn't take advantage of anything that might break the current code so merging this PR isn't high priority (from my point of view at least)."
+18, @xxx what do you mean by 'type in code..
+19,"Whoops, forgot about this one. I think I'm going to close it out. I'm not a huge fan of try any more either, and I don't think xxx should encourage its use any further by adding cute syntax sugar like I've proposed."
+20,"i made a quik pr in passing thinking it would be uncontroversial, i'M not all that interested in spending a log of time bikesheding it."
+21,dont't have the bandwidth to push it to completion right now.
+22,"didn't mean to let fizzle, got busy with work and was hoping discussion would narrow down .... by the time i got free time"
+23,"It was a client-project problem that I solved with a workaround and was hoping to contribute a long lasting solution for. It is low priority. If I feel the need for this again, I will open another pull request. Thank you very much for looking into it. Keep pumping great Rails changes into the ebcosystem. "
+24,reset column information seems to work but i have no idea why 
+25,I'm ill and temporarily unable to work. go back to this PR right once I clear the higher priority parts of my backlog.
+26,can you clarify how should i proceed with this?
+27,also see #xxx we need a consensus which direction we go.
+28,"I'll do my best, may have to wait until next weekend though"
+29,"waiting for xxx£¬ on a more serous note, i don't think i'll have time to work on this until the next month"
+30," I am very sorry, but I am not interested in this topic anymore. While I have waited for the FFmpeg integration, I began to work on a new project, which is near public release right now. Since I have to focus on this, I have no more time for xxx, maybe I will return to it later."
+31,it appears that those aren't applicable here
+32,Would have been cool to let me know before I had to rebase to the new repo etc.
+33,been busy
+34,"Thanks for the pointer @xxx. @xxx, I'm happy to wait for #xxx to land -- some or all of these changes may well be unnecessary after that. Let me know."
+35,"But i'm a little busy right now, i'll probably have time to look at it in the end of the month"
+36,"Im busy now, but I'll have it rebased tomorrow, thanks for your help"
+37," @xxx I haven't been able to figure out why it's not compiling on android, it might be safe to close it if it isn't affecting anyone els"
+38,Hello xxx team. Sorry I was on vacation when I received your reply. I have not given this thought for a while.
+39,"little bussy with my move and starting my PhD, xxx was going to rebase this, but i assume he never found time, i'll get in contact with xxx and figure it out."
+40,"i still need to write more testsand haven't taken the time to do it yet. If someone wants to do so before i do, feel free."
+41,Sadly with my current job i don't really have enough time to work on this. I was hoping the summer would provide more free time.
+42,"I'm still not sure if we should pursue this... @xxx except for the build failures, does it provide any measurable performance benefit for you? "
+43,"i do want to update this PR, just haven't found a chance yet:)."
+44,I don't think I'm familiar enough with the rustc codebase to go through and audit all the uses of {:?} vs {}. I'd be okay with closing this.
+45,I'll when the testing issue will be solved
+46,"If no one beats me to it, I'll change this to implement @xxx's suggestions. I really don't like this design. :-/ Maybe with the ""[-]"" thing, it would work better at first. But I don't know how we could display the field's information nicelyÿ"
+47,"thanks @xxx. should i add the deprecation? if that's a bigger decision, i'm happy to just update the tagging behavior."
+48," I haven't had time to refine this PR. Sorry. But I understand what you meant, and will try to refine it like you suggested."
+49,so i don't think there is any cleanup to do
+50,"low on priorities. Just an update, I've been really busy these last couple months, I plan in fixing this soon. Its just a little low on priorities."
+51,I think I need another core committer to champion this effort or I'm afraid it'll code-rot again
+52,i haven't had the necessary time to set up everything to code and test this properly.
+53,Thanks for the help -- I'm going to have to move on to other priorities however.
+54,run-make tests were fixed in #xxx 
+55,still need to investigate further. I'll reopen if I can confirm its worth
+56,"Sure, I'll try to make that change. I'm not sure when I'll have time in next week or two, so this may be on hold for a while."
+57,"The internal API must have changed. Have span_help! been renamed? If so, what is it named now. "
+58,However if no one else has that need I'm ok with closing this PR and get that info the hacky way :
+59,"i haven't had the chance to devote much time to the tests becausethey are lower in priority, but intend to do them."
+60,just have not had time to try again
+61,"I would be glad to update the patch once again. I would just need someone with the authority to make the decision which approach (using usable_size or going with next pot) to go forward with.  As I said, I would happily implement all that with a little guidance/mentoring. But to be honest, I don¡¯t really have the patience for the bikeshedding involved, since this seems to be quite controversial."
+62, becomes unnecessary with arrival of xxx
+63,"hey sorry! I don't have the time to comit to rebasing and .... If anyone else is interesetd, please be my guest "
+64,"Hey, sorry about the delay. Regrettably things keep coming up that are higher priority than this, which we'll affectionately call ""cleanup"" (though I really would like to see it through). If you have time and would like to take it over, I'd grateful and would offer help and reviews (we have further use cases than this now and have audited all of the e2e tests). Otherwise, I hope to get back to it in the next couple weeks."
+65, @xxx I don't know how to fix the test failures and asked for help in the previous comment.
+66,I'm waiting on you to merge it. It's not inactive.
+67,Cool. I'm moving this weekend (so don't have time) but next week I'll make it a priority to rebase and let you know once it's done. 
+68,"do you know who might be able to answer the PR ownership transferring? (@xxx's internship with Box has ended, so he no longer will be working on this PR and I will take it up from here.) Should I make a new PR to address review comments or is there a way to transfer ownership?"
+69,@xxx I was actually waiting for @xxx to reply
+70,"Frankly, I'm frustrate with this entire process. It really make be doubt about my decision to use node. How does one get their contributions reviewed? I've re-based the PR three times already. I've brought it to your attention several times. I've received no direction on what's hold this up. From what I can tell it's simply been ignored. This really is a bad way to treat contributors: ignoring them and eventually closing their issues because of ""lack of activity""."
+71,Think we missed the boat on 1.7 though :/ 
+72,Maybe @xxx can pick this up
+73,"That¡¯s  unfortunate.  This was  a  good  change,  just  needed  to  make  sure  the  details  werecorrect.  Hopefully  someone  will  pick  this  up  again"
+74,"So, here goes: I've cherry picked the original commit and added changelog and docs"
+75,This had no followup after a review. Is there anyone that wants to help on this?
+76,"Perhaps I'll prepare a PR for that, since it seems #xxx was abandoned. "
+77,"I just implement it like someone suggested, change the interface to just like"
+78,"@xxx can we merge this as is, and open another issue with the other test"
+79,"There was no update for a long while, closing this therefore. @xxx please just reopen if you want to continue working on it"
+80,"Does anyone have plans to follow up on this? If not, perhaps we should close the issue."
+81,did you get any further with this? I'm happy to take a look and pick up the mantle if it's fallen off your radar.
+82,Closing  due  to  inactivity  and  because similar improvements were made to this test in another PR that has landed
+83,"If you or someone else is up for picking up that work, I'd love to have that feature too"
+84,This had no followup after a review. Is there anyone that wants to help on this?
+85,Has anyone worked on this recently? I might take a crack at it.
+86, @xxx I'm closing this one out of inactivity and in favor of #xxx. Thank you for your work __
+87,I'm going to close this out of inactivity. Our Google Summer of Code student @xxx is working to run all our tests in random order. I'm sure he will find this patch useful.
+88,"I'm going to close this due to inactivity. The biggest pieces of this were merged in isolation. If you or someone else wants to take the reigns on picking the other pieces back up, feel free to open new PRs"
+89,going to work on a rebase for this to make it to 5.0
+90,Anyone opposed if I pick this up? Would like to see/use this in xxx 5ÿ
+91, This is likely still something that should be looked at more tho. /cc @xxx
+92,"I am gonna pick this up today and tomorrow during Collaborator Summit. Seems a good opportunity too get more active too and also I am responsible for the breakages. I'll cherry pick the structual changes, since everything else has move to much anyhow."
+93,I am closing this due to the long inactivity and add a good first contribution label on the bug issue.
+94,I'll follow up
+95,I'm following up
+96,Closing due to inactivity to keep our backlog clean 
+97,"Thank you for your PR! Since there hasn't been any activity on this recently, we're going to close this to keep our open PR list current, but please feel free to reopen this when you have time to work on this again __"
+98,"I'm going to close this out of inactivity for now, but @xxx you're of course welcome to resubmit at any time! (just trying to help clear out the queue)"
+99, @ xxx is working on finishing this in the issue referenced above.
+100,"Well, this has been inactive for a while. I'm going to just merge it since it seems like an improvement, even if I think we could expand the text."
+101, @xxx - any volunteers to pick up the baton on this one?
+102,any updates on this? We are close to the freeze and this still blocks #xxx. 
+103,I sent #xxx. It includes all modifications except the codes in AudioEngine since they are needed.
+104," @xxx @xxx Can you finish and merge this pull request, please?"
